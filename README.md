@@ -27,7 +27,7 @@ Aqui estão algumas das tecnologias e ferramentas que me acompanham:
 ### ✨ Projetos em Destaque
 
 Confira alguns dos trabalhos que tenho desenvolvido. Fique à vontade para explorar e dar feedback!
-  Em Breve
+Em Breve
 
 ### 🌱 Atualmente Aprendendo
 
