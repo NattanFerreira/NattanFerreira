@@ -1,16 +1,68 @@
-## Hi there 👋
+<h1 align="center">Olá, sou o Nattan Ferreira Lopes 👋</h1>
 
-<!--
-**NattanFerreira/NattanFerreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Um entusiasta de tecnologia, cursando Tecnlogia da informação e sempre em busca de novos desafios e conhecimentos!
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre Mim
+
+Gosto de tecnologia e de transformar ideias em aplicações práticas tanto no software quanto no hardware. Minha jornada tem sido uma constante evolução, explorando diferentes linguagens e ferramentas para criar soluções eficientes e inovadoras.
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+Aqui estão algumas das tecnologias e ferramentas que me acompanham:
+
+* **Controle de Versão:** Git 
+* **Linguagens de Programação:**
+    * C 
+    * Python 
+    * Java 
+* **Em breve...** (Espaço para você adicionar o que está aprendendo ou planeja aprender!)
+    * [Nome da Tecnologia/Conceito 1]
+    * [Nome da Tecnologia/Conceito 2]
+    * [Nome da Tecnologia/Conceito 3]
+
+---
+
+### ✨ Projetos em Destaque
+
+Confira alguns dos trabalhos que tenho desenvolvido. Fique à vontade para explorar e dar feedback!
+
+* **[Nome do Projeto 1]**: 
+    * Breve descrição do que o projeto faz e qual problema ele resolve.
+    * [Link para o Projeto 1]
+* **[Nome do Projeto 2]**: 
+    * Breve descrição do que o projeto faz e qual problema ele resolve.
+    * [Link para o Projeto 2]
+* **[Nome do Projeto 3]**: 
+    * Breve descrição do que o projeto faz e qual problema ele resolve.
+    * [Link para o Projeto 3]
+
+---
+
+### 🌱 Atualmente Aprendendo
+
+Sempre em busca de expandir meus horizontes! No momento, estou me aprofundando em:
+
+* Golang
+* PostgreSQL
+
+---
+
+### 💬 Vamos Conectar!
+
+Adoraria trocar ideias e experiências! Sinta-se à vontade para me contatar:
+
+* **LinkedIn**: Aguardando 
+* **Email**: nattanferreiralopes@gmail.com
+* **Portfólio**: Aguardando 
+
+---
+
+<p align="center">
+  Obrigado pela visita! 
+</p>
