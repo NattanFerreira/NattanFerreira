@@ -21,28 +21,13 @@ Aqui estão algumas das tecnologias e ferramentas que me acompanham:
     * C 
     * Python 
     * Java 
-#* **Em breve...** (Espaço para você adicionar o que está aprendendo ou planeja aprender!)
- #   * [Nome da Tecnologia/Conceito 1]
-  #  * [Nome da Tecnologia/Conceito 2]
-   # * [Nome da Tecnologia/Conceito 3]
 
 ---
 
 ### ✨ Projetos em Destaque
 
 Confira alguns dos trabalhos que tenho desenvolvido. Fique à vontade para explorar e dar feedback!
-
-* **[Nome do Projeto 1]**: 
-    * Breve descrição do que o projeto faz e qual problema ele resolve.
-    * [Link para o Projeto 1]
-* **[Nome do Projeto 2]**: 
-    * Breve descrição do que o projeto faz e qual problema ele resolve.
-    * [Link para o Projeto 2]
-* **[Nome do Projeto 3]**: 
-    * Breve descrição do que o projeto faz e qual problema ele resolve.
-    * [Link para o Projeto 3]
-
----
+  Em Breve
 
 ### 🌱 Atualmente Aprendendo
 
