@@ -21,10 +21,10 @@ Aqui estão algumas das tecnologias e ferramentas que me acompanham:
     * C 
     * Python 
     * Java 
-* **Em breve...** (Espaço para você adicionar o que está aprendendo ou planeja aprender!)
-    * [Nome da Tecnologia/Conceito 1]
-    * [Nome da Tecnologia/Conceito 2]
-    * [Nome da Tecnologia/Conceito 3]
+#* **Em breve...** (Espaço para você adicionar o que está aprendendo ou planeja aprender!)
+ #   * [Nome da Tecnologia/Conceito 1]
+  #  * [Nome da Tecnologia/Conceito 2]
+   # * [Nome da Tecnologia/Conceito 3]
 
 ---
 
