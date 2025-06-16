@@ -1,4 +1,4 @@
-<h1 align="center">Olá, sou o Nattan Ferreira Lopes 👋</h1>
+<h1 align="center">Olá, sou o Nattan Ferreira 👋</h1>
 
 <p align="center">
   Um entusiasta de tecnologia, cursando Tecnlogia da informação e sempre em busca de novos desafios e conhecimentos!
