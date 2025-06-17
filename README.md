@@ -46,7 +46,7 @@ Sempre em busca de expandir meus horizontes! No momento, estou me aprofundando e
 Adoraria trocar ideias e experiências! Sinta-se à vontade para me contatar:
 
 * **LinkedIn**: [Nattan Ferreira](https://www.linkedin.com/in/nattan-ferreira-a900bb282/) 
-* **Email**: [Entre em contato](nattanferreiralopes@gmail.com)
+* **Email**: nattanferreiralopes@gmail.com
 * **Portfólio**: Aguardando 
 
 ---
