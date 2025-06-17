@@ -36,8 +36,8 @@ Em Breve
 Sempre em busca de expandir meus horizontes! No momento, estou me aprofundando em:
 
 * Golang
-* AWS Academy Cloud Foundations
-* AWS Academy Cloud Architecting
+* AWS Cloud Foundations
+* AWS Cloud Architecting
 
 ---
 
