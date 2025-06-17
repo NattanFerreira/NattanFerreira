@@ -20,7 +20,9 @@ Aqui estão algumas das tecnologias e ferramentas que me acompanham:
 * **Linguagens de Programação:**
     * C 
     * Python 
-    * Java 
+    * Java
+* **Banco de dados::** PostgreSQL
+* **Computação em nuvem:** AWS
 
 ---
 
@@ -34,7 +36,8 @@ Em Breve
 Sempre em busca de expandir meus horizontes! No momento, estou me aprofundando em:
 
 * Golang
-* PostgreSQL
+* AWS Academy Cloud Foundations
+* AWS Academy Cloud Architecting
 
 ---
 
