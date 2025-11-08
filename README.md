@@ -1,1 +1,1 @@
-<h1 align="center">Getting Better</h1>
+<h1 align="center">Getting better</h1>
